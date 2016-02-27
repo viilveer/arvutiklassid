@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<arvutiklassid>
+  <arvutiklass ruuminumber="410" korrus="4">
+    <arvuti os="windows 8.1/ubuntu" bränd="hp" kommentaar=""/>
+    <arvuti os="windows 8.1/ubuntu" bränd="hp" kommentaar=""/>
+    <arvuti os="windows 8.1/ubuntu" bränd="hp" kommentaar=""/>
+    <arvuti os="windows 8.1/ubuntu" bränd="hp" kommentaar=""/>
+    <arvuti os="windows 8.1/ubuntu" bränd="hp" kommentaar="katkine"/>
+    <arvuti os="windows 8.1/ubuntu" bränd="hp" kommentaar=""/>
+    <arvuti os="windows 8.1/ubuntu" bränd="hp" kommentaar="hiir jamab"/>
+    <arvuti os="windows 8.1/ubuntu" bränd="hp" kommentaar=""/>
+  </arvutiklass>
+  <arvutiklass ruuminumber="317" korrus="3">
+    <arvuti os="windows 8.1/ubuntu" bränd="hp" kommentaar=""/>
+    <arvuti os="windows 8.1/ubuntu" bränd="hp" kommentaar=""/>
+  </arvutiklass>
+  <arvutiklass ruuminumber="318" korrus="3">
+    <arvuti os="centos" bränd="hp" kommentaar=""/>
+    <arvuti os="centos" bränd="hp" kommentaar=""/>
+    <arvuti os="centos" bränd="hp" kommentaar=""/>
+    <arvuti os="centos" bränd="hp" kommentaar="õppejõu töömasin"/>
+    <arvuti os="windows 8.1/ubuntu" bränd="hp" kommentaar=""/>
+    <arvuti os="windows 8.1/ubuntu" bränd="hp" kommentaar=""/>
+  </arvutiklass>
+</arvutiklassid>
