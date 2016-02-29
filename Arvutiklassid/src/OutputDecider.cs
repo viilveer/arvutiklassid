@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Arvutiklassid.src
 {
-    class OutputDecider
+    internal class OutputDecider
     {
-        public string[] getOutput(string Type, List<ClassRoom> classRooms)
+        public string[] GetOutput(string type, List<ClassRoom> classRooms)
         {
-            List<string> output = new List<string>();
-            switch (Type)
+            var output = new List<string>();
+            switch (type)
             {
                 case "ARVUTIDKLASSIS":
                 case "ARVUTID":

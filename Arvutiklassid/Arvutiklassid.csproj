@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="src\XmlLoader.cs" />
     <Compile Include="src\Computer.cs" />
     <Compile Include="src\InputDecider.cs" />
     <Compile Include="src\OutputDecider.cs" />
@@ -58,6 +59,7 @@
   <ItemGroup />
   <ItemGroup>
     <Content Include="arvutid.xml" />
+    <Content Include="arvutid.xslt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
